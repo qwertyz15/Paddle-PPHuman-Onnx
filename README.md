@@ -79,13 +79,7 @@ To run the `test_video.py` script, follow these steps:
 
 1. Make sure you have installed the required packages as mentioned in the [Installation](#installation) section.
 
-2. Open a terminal and navigate to the project directory:
-
-   ```bash
-   cd /path/to/your-repo
-   ```
-
-3. Run the script:
+2. Run the script:
 
    ```bash
    python test_video.py
