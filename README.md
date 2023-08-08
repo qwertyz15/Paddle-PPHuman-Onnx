@@ -16,11 +16,9 @@ Paddle PPHuman ONNX refers to the conversion of the PaddlePaddle's PPHuman human
 
 ## Introduction
 
-Provide a brief overview of your project. Explain what the purpose of the project is and what it aims to achieve. Highlight any important features or concepts.
+Convert PaddlePaddle's PPHuman pose estimation model into ONNX format for seamless integration across deep learning frameworks. Elevate applications with enhanced human pose analysis, fostering innovation and accessibility.
 
 ## Getting Started
-
-Convert PaddlePaddle's PPHuman pose estimation model into ONNX format for seamless integration across deep learning frameworks. Elevate applications with enhanced human pose analysis, fostering innovation and accessibility.
 
 ### Prerequisites
 
