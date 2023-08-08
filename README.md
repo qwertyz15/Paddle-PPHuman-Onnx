@@ -32,11 +32,15 @@ List any prerequisites that users need to have installed before they can use you
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository using Git:
 
    ```bash
    git clone https://github.com/qwertyz15/Paddle-PPHuman-Onnx.git
    ```
+
+   **OR**
+
+   Download the repository as a ZIP file from [here](https://github.com/qwertyz15/Paddle-PPHuman-Onnx/archive/main.zip). Extract the ZIP archive.
 
 2. Change into the project directory:
 
@@ -51,7 +55,7 @@ List any prerequisites that users need to have installed before they can use you
    ```
 ## Downloading the Model
 
-You can download the Paddle PPHuman ONNX model from [this drive link](https://drive.google.com/file/d/15AnT_YUtspmGN2A-wD1OTowN_T4muKq5/view?usp=sharing).
+Download the Paddle PPHuman ONNX model from [this drive link](https://drive.google.com/file/d/15AnT_YUtspmGN2A-wD1OTowN_T4muKq5/view?usp=sharing).
 
 ## Usage
 
