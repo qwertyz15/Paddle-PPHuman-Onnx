@@ -20,7 +20,7 @@ Provide a brief overview of your project. Explain what the purpose of the projec
 
 ## Getting Started
 
-In this section, you will find instructions on how to set up your environment and run the project.
+Convert PaddlePaddle's PPHuman pose estimation model into ONNX format for seamless integration across deep learning frameworks. Elevate applications with enhanced human pose analysis, fostering innovation and accessibility.
 
 ### Prerequisites
 

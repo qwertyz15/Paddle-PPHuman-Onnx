@@ -1,0 +1,7 @@
+onnx==1.14.0
+onnx-simplifier==0.4.28
+onnxruntime-gpu==1.15.0
+opencv-python==4.7.0.72
+PyYAML==6.0
+numpy==1.22.4
+
