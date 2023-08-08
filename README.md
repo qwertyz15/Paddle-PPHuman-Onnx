@@ -59,8 +59,6 @@ Download the Paddle PPHuman ONNX model from [this drive link](https://drive.goog
 
 ## Usage
 
-In this section, explain how users can use your project. Provide specific instructions for configuring parameters using the `config.ini` file and running `test_video.py`.
-
 ### Configuring Parameters
 
 Before running the `test_video.py` script, you can configure the following parameters in the `config.ini` file:
